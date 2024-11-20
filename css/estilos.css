@@ -1,0 +1,56 @@
+body {background-color: rgb(255, 0, 0);}
+
+.cuerpo00 {background-color: rgb(255, 0, 191);
+color: brown;}
+
+
+.cuerpo01 {background-color: rgb(0, 255, 26);
+color: rgb(0, 255, 8);}
+
+.cuerpo02 {background-color: rgb(0, 115, 255);
+color: brown;}
+
+.cuerpo03 {background-color: rgb(140, 0, 255);}
+
+.cuerpo04 {background-color: rgb(255, 183, 0);}
+
+.cuerpo05 {background-color: rgb(0, 204, 255);
+
+}
+
+/* DOCUMENTACIÓN:
+
+1. body:
+   - Se establece un fondo de color **rojo brillante** para el cuerpo de la página.
+   - El valor `rgb(255, 0, 0)` corresponde a un fondo rojo, sin componentes de verde ni azul.
+
+2. .cuerpo00:
+   - Establece un fondo de color **rosa/morado** (`rgb(255, 0, 191)`) con el texto en **marrón** (`brown`).
+   - Este estilo se puede usar para secciones con fondo morado y texto en un tono oscuro.
+
+3. .cuerpo01:
+   - Establece un fondo **verde claro** (`rgb(0, 255, 26)`) y texto en **verde brillante** (`rgb(0, 255, 8)`).
+   - Ideal para un diseño con tonos de verde.
+
+4. .cuerpo02:
+   - El fondo es **azul** (`rgb(0, 115, 255)`) y el texto es **marrón** (`brown`).
+   - Esta clase se usa para áreas con un fondo azul intenso y texto marrón.
+
+5. .cuerpo03:
+   - El fondo es **morado** (`rgb(140, 0, 255)`), sin especificar color de texto.
+   - Es un diseño de fondo morado con un color de texto que heredará el valor por defecto.
+
+6. .cuerpo04:
+   - Establece un fondo **naranja** (`rgb(255, 183, 0)`).
+   - Se utiliza para un área con un color cálido y brillante de fondo.
+
+7. .cuerpo05:
+   - Establece un fondo **azul claro** (`rgb(0, 204, 255)`).
+   - Es ideal para secciones de la página con un tono fresco y brillante.
+
+*/
+
+/* soy Alexander Maurice Ponce Sierra, estudio diseño de la comunicacion grafica en la lobos alamedas y hoy es 20 de noviembre del 2024-->*/
+
+ 
+ 
